@@ -21,7 +21,7 @@ Install
 =========
 
 The jlpm command is JupyterLab's pinned version of
-`yarn <https://yarnpkg.com>` that is installed with JupyterLab. You may use
+`Try it on Binder <https://mybinder.org/v2/gh/jupytercalpoly/jupyterlab-tabular-data-editor/master?urlpath=lab>`__ that is installed with JupyterLab. You may use
 yarn or npm in lieu of jlpm below.
 
 .. code:: bash
