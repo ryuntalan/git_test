@@ -9,19 +9,17 @@ Manipulate your tabular data responsively and effectively within JupyterLab. `Tr
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
-   
+
    getting_started/overview
    getting_started/installation
    getting_started/changelog
-
 
 .. toctree::
    :maxdepth: 1
    :caption: User Guide
    
-    user/ux
-    user/features
-   
+   user/ux
+   user/features
 
 .. toctree::
    :maxdepth: 1
@@ -29,5 +27,4 @@ Manipulate your tabular data responsively and effectively within JupyterLab. `Tr
    
    contributor/codebase
    contributor/contribute
-   
-
+ 
