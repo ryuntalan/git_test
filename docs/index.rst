@@ -21,3 +21,4 @@ Manipulate your tabular data responsively and effectively within JupyterLab. `Tr
    :maxdepth: 1
    :caption: Contributor Guide
    
+
