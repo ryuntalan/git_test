@@ -19,10 +19,15 @@ Manipulate your tabular data responsively and effectively within JupyterLab. `Tr
    :maxdepth: 1
    :caption: User Guide
    
-
+    user/ux
+    user/features
+   
 
 .. toctree::
    :maxdepth: 1
    :caption: Contributor Guide
+   
+   contributor/codebase
+   contributor/contribute
    
 
